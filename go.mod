@@ -1,4 +1,4 @@
-module github.com/EachinChung/codegen
+module github.com/eachinchung/codegen
 
 go 1.17
 
